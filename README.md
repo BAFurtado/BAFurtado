@@ -10,5 +10,5 @@ I'm also a newbie pantser: https://sites.google.com/view/bernardo-alves-furtado/
  
  💬 I'm also a teacher, so feel free to ask me about agent-based modeling or python 
  
- 📫 Find me at twitter.com/furtadobb or at https://sites.google.com/view/bernardo-alves-furtado
+ 📫 Find me at https://twitter.com/furtadobb or at https://sites.google.com/view/bernardo-alves-furtado
  
