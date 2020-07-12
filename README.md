@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there, I'm a researcher. 
 
-<!--
-**BAFurtado/BAFurtado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Originally an architect, I became a geographer, then an economist, and I'm about to become a (methodology) developer working with public policies!
+I'm also a newbie pantser: https://sites.google.com/view/bernardo-alves-furtado/novel
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 🔭 I’m currently working on **Agent-based Models**, 
+ 🌱 learning python for the **web** 
+ 
+ 👯 Would love to have collaborators on Policy Modeling and PolicySpace2, here: https://github.com/BAFurtado/PolicySpace2
+ 
+ 💬 I'm also a teacher, so feel free to ask me about agent-based modeling or python 
+ 
+ 📫 Find me at twitter.com/furtadobb or at https://sites.google.com/view/bernardo-alves-furtado
+ 
