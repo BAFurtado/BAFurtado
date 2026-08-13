@@ -1,10 +1,14 @@
-### Hi there, I'm a researcher. 
+### Hi there, I'm a researcher working with public policy and complex systems.
 
-Originally an architect, I became a geographer, then an economist. Nowadays, I'm mostly a modeler working with agent-based models (ABM) AND public policies! Find my open source production, here: https://www.researchgate.net/profile/Bernardo_Furtado
+Originally trained as an architect, I became a geographer, then an economist. Nowadays, I mostly build computational models—especially agent-based models (ABMs)—to understand complex social, economic, and spatial systems and explore the effects of public policies.
 
-I have also written a novel around women violence, as a newbie **pantser**: Linger no longer and check it out https://www.amazon.com/Linger-Longer-Diana-runner-helper-ebook/dp/B08D6WQHG9
+Here you can find my open-source work, including **PolicySpace** and **PolicySpace3**. I'm particularly interested in policy modelling, simulation, data, and computational social science, and I'm always happy to connect with potential collaborators.
 
- 🔭 Keywords for me are **Agent-based Models**, and 🌱 **Public Policies**. I need collaborators on Policy Modeling and PolicySpace3, here: https://github.com/BAFurtado/PS3
- 
- 💬 I'm also a teacher 📫 Find me at https://sites.google.com/view/bernardo-alves-furtado (outdated, but there)
+🔭 My main keywords are **Agent-Based Modelling**, **Complex Systems**, and **Public Policy**.
+
+I have also written a novel about violence against women, as a newbie **pantser**: **_Linger No Longer_**.  
+https://www.amazon.com/Linger-Longer-Diana-runner-helper-ebook/dp/B08D6WQHG9
+
+💬 I'm also a teacher and researcher. You can find more about me here:  
+https://sites.google.com/view/bernardo-alves-furtado
  
