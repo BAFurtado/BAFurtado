@@ -10,5 +10,5 @@ I have also written a novel about violence against women, as a newbie **pantser*
 https://www.amazon.com/Linger-Longer-Diana-runner-helper-ebook/dp/B08D6WQHG9
 
 💬 I'm also a teacher and researcher. You can find more about me here:  
-https://sites.google.com/view/bernardo-alves-furtado
+[https://bafurtado.github.io/](https://bafurtado.github.io/)
  
